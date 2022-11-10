@@ -15,7 +15,7 @@
 
     &__name{
         font-size: 5rem;
-        border-bottom: 2px solid #fff;
+        border-bottom: 2px solid set-text-color(rgba($primary-color, .4));
 
         &--last{
             color: $secondary-color;
